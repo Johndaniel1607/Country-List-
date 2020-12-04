@@ -23,6 +23,16 @@ namespace Daniel.Country_List
         public MainWindow()
         {
             InitializeComponent();
+            List<string> countries = new List<string>() { " ", " ", " ", " ", };
+            List<string> name = new List<string>();
+
+            int ctr = 0;
+            foreach ( string country in countries )
+            {
+                name.Add(ctr + " " + country);
+                ctr = ctr + 1;
+            }
+            lstCoutries.ItemsSource = name ;
         }
     }
 }

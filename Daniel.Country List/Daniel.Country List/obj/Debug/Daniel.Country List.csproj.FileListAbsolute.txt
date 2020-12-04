@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\bin\Debug\Daniel.Country List.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\bin\Debug\Daniel.Country List.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\bin\Debug\Daniel.Country List.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country_List.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project9\Country List\Daniel.Country List\Daniel.Country List\obj\Debug\Daniel.Country List.pdb
